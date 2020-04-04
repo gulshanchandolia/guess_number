@@ -43,4 +43,9 @@ if not chances < 5:
     print("Wrong Guesses : The Number is ")
     
     print(num)
+    
+    
+    
+    
+    
 
