@@ -1,11 +1,12 @@
-Totally different content to mess with 
 # -*- coding: utf-8 -*-
+#this is some content to mess wit
 """
 Created on Fri Apr  3 11:33:19 2020
 
 @author: Gulshan Chandolia
+
+
 """
-# DUMMY`
 import random
 
 num = random.randint(1,20)
@@ -37,6 +38,4 @@ if not chances < 5:
     print("Wrong Guesses : The Number is ")
     
     print(num)
-    
-input("Enter any key to exit")
 
